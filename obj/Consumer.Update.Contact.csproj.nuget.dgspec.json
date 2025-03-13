@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marla\\source\\repos\\consumer-update-contact\\Consumer.Update.Contact.csproj": {}
+    "C:\\Users\\marla\\Source\\Repos\\consumer-update-contact\\Consumer.Update.Contact.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marla\\source\\repos\\consumer-update-contact\\Consumer.Update.Contact.csproj": {
+    "C:\\Users\\marla\\Source\\Repos\\consumer-update-contact\\Consumer.Update.Contact.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marla\\source\\repos\\consumer-update-contact\\Consumer.Update.Contact.csproj",
+        "projectUniqueName": "C:\\Users\\marla\\Source\\Repos\\consumer-update-contact\\Consumer.Update.Contact.csproj",
         "projectName": "Consumer.Update.Contact",
-        "projectPath": "C:\\Users\\marla\\source\\repos\\consumer-update-contact\\Consumer.Update.Contact.csproj",
+        "projectPath": "C:\\Users\\marla\\Source\\Repos\\consumer-update-contact\\Consumer.Update.Contact.csproj",
         "packagesPath": "C:\\Users\\marla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marla\\source\\repos\\consumer-update-contact\\obj\\",
+        "outputPath": "C:\\Users\\marla\\Source\\Repos\\consumer-update-contact\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
