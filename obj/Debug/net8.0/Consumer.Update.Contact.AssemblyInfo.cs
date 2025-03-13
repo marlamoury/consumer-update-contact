@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Consumer.Update.Contact")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd03a84dd5d6e010f3d4bca1087bfc318a6b6692")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29cd8fc40d2ef1f7f32726d09b8e964c31ed342a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Consumer.Update.Contact")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Consumer.Update.Contact")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
